@@ -1,0 +1,37 @@
+-in esecuzione:
+
+
+-da fare:
+
+-idee:
+    -salvare le chat in un foglio di testo(il problema e' di come renderla sicura)
+    -chat di gruppo(server di mezzo no server/client)
+    -page with saved chat
+    -dare del senso ai messaggi di errore
+    -pulire le entry
+    -fare un ciclo per controllare se il server e' attivo(per il client della chat)
+    -salvare le opzioni in base dell'ultima operazione(ogni riga il tipo di connesione)
+    -scrollbar
+
+-fatte:
+    -gestione username
+    -smettere di usare i messaggi come byte e tramutarli stringhe
+    -invio del buffersize
+    -server base
+    -client base
+    -thread server
+    -thread client
+    -cambio del panello opzioni
+    -send button
+    -controllo del tipo di formato
+    -gestione multi page
+    -\/chat page
+    -base gui
+    -iniziare i socket / creare i socket
+    -scrivere la chat tramite i socket
+    -corregere il fatto che all creazione non carica del tutto la pagina per il server
+    -fare un feedback del fatto di aver sbagliato i dati della chat
+    -back button nella chat
+    -chiudere il socket alla chiusura almeno per il server
+    -rimettere i colori in una maniera decente
+    -messaggio di sconnessione(da testare)
